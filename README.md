@@ -6,6 +6,6 @@ This repo exists to automate the move from CentOS to CentOS Stream as simply as 
 To update run the run.sh script with sudo. Be sure to modify permissions to allow this.
 
 ```
-~$ chmod o+x ./test.sh 
+~$ chmod u+x ./test.sh 
 ~$ sudo ./run.sh
 ```
